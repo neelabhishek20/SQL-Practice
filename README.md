@@ -6,3 +6,11 @@
 | 4 | David | 80000 |
 | 2 | Alice | 70000 |
 | 3 | Bob | 60000 |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/neelabhishek20/SQL-Practice/tree/master/1934-confirmation-rate) |
+<!---LeetCode Topics End-->
