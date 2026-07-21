@@ -12,5 +12,6 @@
 ## Database
 |  |
 | ------- |
+| [1164-product-price-at-a-given-date](https://github.com/neelabhishek20/SQL-Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1934-confirmation-rate](https://github.com/neelabhishek20/SQL-Practice/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
